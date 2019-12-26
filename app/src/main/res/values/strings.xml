@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieAppShkolo</string>
+
+    <string name="movie_year">Movie Year</string>
+    <string name="movie_name">Movie Name</string>
+
+    <!-- ALERT DIALOG -->
+    <string name="title">Confirm Deletion</string>
+    <string name="message">Click OK to remove selected Movie</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">Cancel</string>
+
+    <!-- ORDER MOVIES BY NAME -->
+    <string name="order_movies">Order Movies</string>
+
+</resources>
